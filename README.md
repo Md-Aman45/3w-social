@@ -196,7 +196,7 @@ PUT    /api/posts/:id/share 🔒 # Increment share count
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-md--aman-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/md-aman-7941a0355/)
 [![GitHub](https://img.shields.io/badge/GitHub-Md--Aman45-181717?style=flat-square&logo=github)](https://github.com/md-aman45)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6366f1?style=flat-square)](https://md-aman45.github.io/portfolio.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6366f1?style=flat-square)](https://md-aman45.github.io/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-AmanOps-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/AmanOps/)
 
 ---
