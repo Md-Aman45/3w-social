@@ -203,5 +203,8 @@ PUT    /api/posts/:id/share 🔒 # Increment share count
 
 <div align="center">
   Built with ❤️ for 3W Business Private Limited — Round 1 Internship Task
+</div>
+
+<div align="center">
   ❤️ Thank You
 </div>
